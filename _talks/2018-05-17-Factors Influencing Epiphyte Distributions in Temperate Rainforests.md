@@ -1,8 +1,8 @@
 ---
-title: "Factors Influencing Epiphyte Distributions in Temperate Rainforests."
+title: "Factors Influencing Epiphyte Distributions in Temperate Rainforests"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/2018-05-17-Factors Influencing Epiphyte Distributions in Temperate Rainforests
 venue: "University of Washington, Undergraduate Research Symposium"
 date: 2018-05-17
 location: "Seattle, Washington"
